@@ -1,3 +1,3 @@
-선택 git test repository 입니다.
+선택 git test repository 입니다. 짱!!
 
 
